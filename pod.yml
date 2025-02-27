@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: bala246/mazeimage:latest
+          image: bala246/game:latest
           imagePullPolicy: Always
